@@ -854,7 +854,7 @@ section {
   border-bottom: 3px solid #f68c09;
 }
 
-.services .service-box.orange .icon {
+.services .service-box.orange .img {
   color: #f68c09;
   background: #fde3c4;
 }
@@ -871,7 +871,7 @@ section {
   border-bottom: 3px solid #08da4e;
 }
 
-.services .service-box.green .icon {
+.services .service-box.green .img {
   color: #08da4e;
   background: #cffddf;
 }
@@ -888,7 +888,7 @@ section {
   border-bottom: 3px solid #e9222c;
 }
 
-.services .service-box.red .icon {
+.services .service-box.red .img {
   color: #e9222c;
   background: #fef7f8;
 }
@@ -905,7 +905,7 @@ section {
   border-bottom: 3px solid #b50edf;
 }
 
-.services .service-box.purple .icon {
+.services .service-box.purple .img {
   color: #b50edf;
   background: #f8e4fd;
 }
@@ -922,7 +922,7 @@ section {
   border-bottom: 3px solid #f51f9c;
 }
 
-.services .service-box.pink .icon {
+.services .service-box.pink .img {
   color: #f51f9c;
   background: #feecf7;
 }
@@ -941,7 +941,7 @@ section {
   color: #fff;
 }
 
-.services .service-box:hover .icon {
+.services .service-box:hover .img {
   background: #fff;
 }
 
